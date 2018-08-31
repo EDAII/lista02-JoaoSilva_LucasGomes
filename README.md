@@ -1,5 +1,7 @@
 Lista 02 - Algoritmos de Ordenação O(n²) implementadas em Python
 
+É recomendando definir o tamanho do vetor até 10 posições para melhor visualização da ordenação
+
 Alunos:
 
 * João Vitor de Moura - 16/0127891
